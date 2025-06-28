@@ -1,0 +1,49 @@
+{
+  "name": "Akshat Jangid",
+  "bio": "I am a passionate and goal-driven Data Science and AI enthusiast with a strong foundation in data analysis, machine learning, and model deployment. My journey has been shaped by hands-on experience in building intelligent systems that solve real-world problems. I am deeply interested in extracting meaningful insights from data and transforming them into actionable solutions that add value to business and society.",
+  
+  "skills": [
+    "Python", 
+    "NumPy", 
+    "Pandas", 
+    "Matplotlib", 
+    "Seaborn", 
+    "Scikit-learn", 
+    "TensorFlow", 
+    "Keras",
+    "OpenCV",
+    "Streamlit", 
+    "Git & GitHub",
+    "VS Code",
+    "Jupyter Notebook"
+  ],
+  
+  "learning": [
+    "Deep Learning (CNNs, RNNs, Transformers)", 
+    "LangChain & Generative AI",
+    "Reinforcement Learning", 
+    "Model Deployment (Streamlit, Flask, FastAPI)", 
+    "Data Engineering (SQL, Airflow basics)", 
+    "Cloud platforms (AWS, GCP basics)"
+  ],
+
+  "projects": [
+    {
+      "title": "Customer Satisfaction Prediction",
+      "description": "Built a logistic regression model to predict airline passenger satisfaction using survey data. Implemented feature engineering, preprocessing, model evaluation, and deployed using Streamlit.",
+      "github": "https://github.com/akshatjangid/stock-predictor"
+    },
+    {
+       "title": "Stock Price Prediction (In Progress)",
+  "description": "Currently building a robust ML model for long-term stock price forecasting using regression and time series analysis. Focused on improving data preprocessing and prediction accuracy."
+ ,"github": "https://github.com/akshatjangid/stock-predictor"},
+    {
+      
+  "title": "Personal Portfolio Website",
+  "description": "Developed a responsive personal portfolio using Streamlit. Features include multi-page navigation, project showcase, resume download, and contact form — all dynamically managed via JSON."
+,"github": "https://github.com/akshatjangid/stock-predictor"
+    }
+  ],
+
+  "goals": "To become a skilled Data Scientist capable of designing and deploying impactful machine learning models for real-world business and social challenges. I aim to keep learning cutting-edge tools, stay updated with AI trends, and contribute to innovative projects with passion and purpose."
+}
