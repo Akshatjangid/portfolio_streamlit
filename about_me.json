@@ -31,7 +31,7 @@
     {
       "title": "Customer Satisfaction Prediction",
       "description": "Built a logistic regression model to predict airline passenger satisfaction using survey data. Implemented feature engineering, preprocessing, model evaluation, and deployed using Streamlit.",
-      "github": "https://github.com/akshatjangid/stock-predictor"
+      "github": "https://github.com/Akshatjangid/customer-satisfaction-app"
     },
     {
        "title": "Stock Price Prediction (In Progress)",
