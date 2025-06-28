@@ -103,6 +103,7 @@ elif page == "📁 Projects":
             st.subheader(f"🔹 {project['title']}")
             st.write(project['description'])
             st.markdown(f"[GitHub Repository]({project['github']})")
+            st.markdown(f"[App Link]({project['app link']})")
             st.markdown("---")
 
     except FileNotFoundError:
