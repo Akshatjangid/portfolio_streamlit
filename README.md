@@ -1,5 +1,8 @@
 # portfolio_streamlit
 # 👨‍💼 Akshat Jangid – Data Science Portfolio
+# 👨‍💼 Akshat Jangid – Data Science Portfolio
+
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 
 Welcome to my personal portfolio website built using **Streamlit**. This project showcases my background, skills, and featured projects in the field of **Data Science and Machine Learning**.
 
