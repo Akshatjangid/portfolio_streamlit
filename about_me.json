@@ -36,12 +36,12 @@
     {
        "title": "Stock Price Prediction (In Progress)",
   "description": "Currently building a robust ML model for long-term stock price forecasting using regression and time series analysis. Focused on improving data preprocessing and prediction accuracy."
- ,"github": "https://github.com/akshatjangid/stock-predictor"},
+ ,"github": "https://github.com/Akshatjangid/Stock_Price_Predictor"},
     {
       
   "title": "Personal Portfolio Website",
   "description": "Developed a responsive personal portfolio using Streamlit. Features include multi-page navigation, project showcase, resume download, and contact form — all dynamically managed via JSON."
-,"github": "https://github.com/akshatjangid/stock-predictor"
+,"github": "https://github.com/Akshatjangid/portfolio_streamlit"
     }
   ],
 
