@@ -32,3 +32,12 @@ git clone https://github.com/your-username/portfolio-streamlit.git
 cd portfolio-streamlit
 pip install -r requirements.txt
 streamlit run st.py
+
+## 📝 License
+
+This portfolio is distributed under the **Creative Commons Attribution-NonCommercial 4.0** License.  
+You may learn from or adapt it for **personal use**, but please give credit.  
+**Commercial use or direct copying is not allowed.**
+
+© 2025 Akshat Jangid
+
