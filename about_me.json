@@ -28,12 +28,14 @@
     {
       "title": "Customer Satisfaction Prediction",
       "description": "Built a logistic regression model to predict airline passenger satisfaction using survey data. Implemented feature engineering, preprocessing, model evaluation, and deployed using Streamlit.",
-      "github": "https://github.com/Akshatjangid/customer-satisfaction-app"
+      "github": "https://github.com/Akshatjangid/customer-satisfaction-app",
+      "app link": "https://customer-satisfaction-app.onrender.com"
     },
     {
       "title": "Personal Portfolio Website",
       "description": "Developed a responsive personal portfolio using Streamlit. Features include multi-page navigation, project showcase, resume download, and contact form — all dynamically managed via JSON.",
-      "github": "https://github.com/Akshatjangid/portfolio_streamlit"
+      "github": "https://github.com/Akshatjangid/portfolio_streamlit",
+      "app link": "https://portfolio-akshatjangid.streamlit.app/"
     },
     {
       "title": "Stock Price Prediction (In Progress)",
