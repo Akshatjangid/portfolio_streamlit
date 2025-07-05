@@ -40,14 +40,14 @@
     {
       "title": "bike price Prediction ",
       "description": "Currently building a robust ML model for long-term stock price forecasting using regression and time series analysis. Focused on improving data preprocessing and prediction accuracy.",
-      "github": "https://github.com/Akshatjangid/Stock_Price_Predictor",
-      "app link": ""
+      "github": "https://github.com/Akshatjangid/bike_price_prediction",
+      "app link": "https://bike-price-prediction-jkhd.onrender.com/"
     },
     {
       "title": "Stock Price Prediction (In Progress)",
       "description": "A simple Streamlit app to predict bike prices based on features like brand, model, year, and condition.",
-      "github": "https://github.com/Akshatjangid/bike_price_prediction",
-      "app link": "https://bike-price-prediction-jkhd.onrender.com/"
+      "github": "https://github.com/Akshatjangid/Stock_Price_Predictor",
+      "app link": ""
     }
   ],
   "goals": "To become a skilled Data Scientist capable of designing and deploying impactful machine learning models for real-world business and social challenges. I aim to keep learning cutting-edge tools, stay updated with AI trends, and contribute to innovative projects with passion and purpose."
