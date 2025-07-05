@@ -35,10 +35,10 @@ if page == "🏠 Home":
         st.markdown(
         """
         <div style='text-align: center; margin-top: 25px;'>
-            <a href="https://github.com/akshatjangid" target="_blank">
+            <a href="https://www.linkedin.com/in/akshat-jangid/" target="_blank">
                 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" style="margin-right: 20px;">
             </a>
-            <a href="https://www.linkedin.com/in/akshatjangid" target="_blank">
+            <a href="https://www.linkedin.com/in/akshat-jangid" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" style="margin-right: 20px;">
             </a>
             <a href="https://www.instagram.com/your_username" target="_blank">
