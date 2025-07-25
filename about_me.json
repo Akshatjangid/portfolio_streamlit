@@ -26,6 +26,11 @@
   ],
   "projects": [
     {
+      "title": "AgriSmart : AI Partner for every farmer",
+      "description": "Developed a web application that recommends suitable crops based on soil and weather data using a Random Forest model, and detects plant leaf diseases via a CNN-based deep learning model with treatment suggestions in English and Hindi. Deployed on Render with optimized model loading and performance handling.",
+      "github": "https://github.com/Akshatjangid/AgriSmart",
+      "app link": "https://agrismart-k05z.onrender.com/"
+    },{
       "title": "Customer Satisfaction Prediction",
       "description": "Built a logistic regression model to predict airline passenger satisfaction using survey data. Implemented feature engineering, preprocessing, model evaluation, and deployed using Streamlit.",
       "github": "https://github.com/Akshatjangid/customer-satisfaction-app",
