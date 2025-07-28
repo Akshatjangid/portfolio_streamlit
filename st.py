@@ -17,15 +17,18 @@ if page == "🏠 Home":
         st.markdown("<h2 style='color: green;'>Data Scientist</h2>", unsafe_allow_html=True)
         st.markdown(
             """
-            I am an aspiring Data Scientist with a strong foundation in data analysis, machine learning, and statistical modeling.
-            My technical skill set includes Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, and Streamlit. 
-            I have hands-on experience working on end-to-end projects involving data cleaning, feature engineering, model training, 
-            and deployment through interactive web applications.  
+           I am an aspiring Data Scientist with a solid foundation in data analysis, machine learning, deep learning, and statistical modeling. 
+           My technical skill set includes Python, Pandas, NumPy, Scikit-learn, TensorFlow (with GPU), Keras, OpenCV, and Streamlit. 
+           I also have experience with data visualization libraries like Matplotlib and Seaborn, and web frameworks like Flask.
+             I have hands-on experience building and deploying end-to-end ML/DL projects, including crop recommendation systems,
+               plant disease detection using CNNs, and regression models for price prediction. My strengths lie in data preprocessing,
+                 feature engineering, model development, and deploying interactive web applications with real-time predictions. 
             <br><br>
-            Currently, I am focused on developing robust machine learning models for domains such as customer satisfaction prediction and stock price forecasting, 
-            with a strong emphasis on practical implementation and performance optimization.  
+           Currently, I am focused on developing robust machine learning models for real-world domains such as customer satisfaction prediction 
+           and stock price forecasting, with a strong emphasis on practical implementation, model interpretability, and performance optimization.  
             <br><br>
-            Driven by curiosity and continuous learning, I aim to contribute to impactful, data-driven solutions in business and technology.
+            Driven by curiosity and a passion for continuous learning, I strive to contribute to impactful,
+              data-driven solutions that bridge business needs and technological innovation.
             """,
             unsafe_allow_html=True
         )
