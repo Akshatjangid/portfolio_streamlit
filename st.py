@@ -17,7 +17,10 @@ if page == "🏠 Home":
         st.markdown("<h2 style='color: green;'>Data Scientist</h2>", unsafe_allow_html=True)
         st.markdown(
             """
-            
+            I am an aspiring Data Scientist with a strong foundation in data analysis, machine learning, and statistical modeling.
+            My technical skill set includes Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, and Streamlit. 
+            I have hands-on experience working on end-to-end projects involving data cleaning, feature engineering, model training, 
+            and deployment through interactive web applications.  
             <br><br>
             Currently, I am focused on developing robust machine learning models for domains such as customer satisfaction prediction and stock price forecasting, 
             with a strong emphasis on practical implementation and performance optimization.  
