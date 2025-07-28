@@ -15,9 +15,10 @@
     "Git & GitHub",
     "VS Code",
     "Jupyter Notebook"
+    "Flask"
   ],
   "learning": [
-    "Deep Learning (CNNs, RNNs, Transformers)",
+    "Deep Learning (ANNs,CNNs, RNNs, Transformers)",
     "LangChain & Generative AI",
     "Reinforcement Learning",
     "Model Deployment (Streamlit, Flask, FastAPI)",
