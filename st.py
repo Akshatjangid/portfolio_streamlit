@@ -82,7 +82,7 @@ elif page == "📄 Resume":
         resume_data=file.read()
     st.download_button(label="Download Resume",
                         data=resume_data,
-                          file_name="AKSHAT JANGID NEW RESUME.pdf",
+                          file_name="AKSHAT JANGID NEW RESUME  .pdf",
                         mime="application/pdf"
                         ) 
     
