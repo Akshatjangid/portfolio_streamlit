@@ -14,7 +14,7 @@ if page == "🏠 Home":
 
     with col1:
         st.title("Hi, I'm Akshat Jangid ")
-        st.markdown("<h2 style='color: green;'>Data Scientist</h2>", unsafe_allow_html=True)
+        st.markdown("<h2 style='color: green;'>Data Scientist| ML & DL Enthusiast</h2>", unsafe_allow_html=True)
         st.markdown(
             """
             I am an aspiring Data Scientist with a strong foundation in data analysis, machine learning, and statistical modeling.
