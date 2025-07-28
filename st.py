@@ -13,25 +13,38 @@ if page == "🏠 Home":
     col1, col2 = st.columns([2, 1])
 
     with col1:
-        st.title("Hi, I'm Akshat Jangid ")
-        st.markdown("<h2 style='color: green;'>Data Scientist</h2>", unsafe_allow_html=True)
-        st.markdown(
-            """
-           I am an aspiring Data Scientist with a solid foundation in data analysis, machine learning, deep learning, and statistical modeling. 
-           My technical skill set includes Python, Pandas, NumPy, Scikit-learn, TensorFlow (with GPU), Keras, OpenCV, and Streamlit. 
-           I also have experience with data visualization libraries like Matplotlib and Seaborn, and web frameworks like Flask.
-             I have hands-on experience building and deploying end-to-end ML/DL projects, including crop recommendation systems,
-               plant disease detection using CNNs, and regression models for price prediction. My strengths lie in data preprocessing,
-                 feature engineering, model development, and deploying interactive web applications with real-time predictions. 
-            <br><br>
-           Currently, I am focused on developing robust machine learning models for real-world domains such as customer satisfaction prediction 
-           and stock price forecasting, with a strong emphasis on practical implementation, model interpretability, and performance optimization.  
-            <br><br>
-            Driven by curiosity and a passion for continuous learning, I strive to contribute to impactful,
-              data-driven solutions that bridge business needs and technological innovation.
-            """,
-            unsafe_allow_html=True
-        )
+     st.markdown("<h1>👋 Hi, I'm Akshat Jangid</h1>", unsafe_allow_html=True)
+     st.markdown("<h3 style='color: green;'>Aspiring Data Scientist | ML & DL Enthusiast</h3>", unsafe_allow_html=True)
+    
+     st.markdown(
+        """
+        <p>
+        I build intelligent, real-world solutions using Python, Machine Learning, and Deep Learning — 
+        from crop & disease prediction to customer satisfaction and stock price forecasting.
+        </p>
+        <hr style="margin-top:20px;margin-bottom:20px;">
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.markdown(
+        """
+        I am an aspiring Data Scientist with a solid foundation in data analysis, machine learning, deep learning, and statistical modeling. 
+        My technical skill set includes Python, Pandas, NumPy, Scikit-learn, TensorFlow (with GPU), Keras, OpenCV, and Streamlit. 
+        I also have experience with data visualization libraries like Matplotlib and Seaborn, and web frameworks like Flask.
+        I have hands-on experience building and deploying end-to-end ML/DL projects, including crop recommendation systems,
+        plant disease detection using CNNs, and regression models for price prediction. My strengths lie in data preprocessing,
+        feature engineering, model development, and deploying interactive web applications with real-time predictions. 
+        <br><br>
+        Currently, I am focused on developing robust machine learning models for real-world domains such as customer satisfaction prediction 
+        and stock price forecasting, with a strong emphasis on practical implementation, model interpretability, and performance optimization.  
+        <br><br>
+        Driven by curiosity and a passion for continuous learning, I strive to contribute to impactful,
+        data-driven solutions that bridge business needs and technological innovation.
+        """,
+        unsafe_allow_html=True
+    )
+
 
     with col2:
         st.image("IMG_20230211_133641_081-removebg-preview.png", width=350)
