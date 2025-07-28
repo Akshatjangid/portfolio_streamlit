@@ -78,7 +78,7 @@ elif page == "📄 Resume":
     st.header("My Resume")
     st.markdown("Click the button below to download my latest resume:")
     st.markdown("---")
-    with open("AKSHAT JANGID NEW RESUME.pdf", "rb") as file:
+    with open("AKSHAT JANGID NEW RESUME  .pdf", "rb") as file:
         resume_data=file.read()
     st.download_button(label="Download Resume",
                         data=resume_data,
