@@ -31,7 +31,7 @@ if page == "🏠 Home":
         )
 
     with col2:
-        st.image("IMG_20230211_133641_081-removebg-preview.png", width=350)
+        st.image("casual photo2-black.jpg", width=350)
         st.markdown(
         """
         <div style='text-align: center; margin-top: 25px;'>
