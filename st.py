@@ -117,7 +117,7 @@ elif page == "📬 Contacts":
     st.markdown("""you can reach out to me via the following platforms:
     - 📧 Email: [akshatjangid23@gmail.com](mailto:akshatjangid23@gmail.com)
     - 💼 LinkedIn: [linkedin.com/in/akshatjangid](https://www.linkedin.com/in/akshat-jangid-109514233/)
-    - 🐙 GitHub: [github.com/akshatjangid](https://github.com/Akshatjangid)
+    - 🐙 GitHub: [github.com/Akshatjangid](https://github.com/Akshatjangid)
     - 📱 Phone: +91-8854004221   """)
 
     st.markdown("---")
