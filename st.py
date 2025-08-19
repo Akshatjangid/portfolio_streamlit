@@ -35,10 +35,10 @@ if page == "🏠 Home":
         st.markdown(
         """
         <div style='text-align: center; margin-top: 25px;'>
-            <a href="https://www.linkedin.com/in/akshat-jangid/" target="_blank">
+            <a href="https://github.com/Akshatjangid" target="_blank">
                 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" style="margin-right: 20px;">
             </a>
-            <a href="https://www.linkedin.com/in/akshat-jangid" target="_blank">
+            <a href="https://www.linkedin.com/in/akshat-jangid-109514233/" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" style="margin-right: 20px;">
             </a>
             <a href="https://www.instagram.com/your_username" target="_blank">
@@ -116,8 +116,8 @@ elif page == "📬 Contacts":
     st.header("Get in Touch")
     st.markdown("""you can reach out to me via the following platforms:
     - 📧 Email: [akshatjangid23@gmail.com](mailto:akshatjangid23@gmail.com)
-    - 💼 LinkedIn: [linkedin.com/in/akshatjangid](https://linkedin.com/in/akshatjangid)
-    - 🐙 GitHub: [github.com/akshatjangid](https://github.com/akshatjangid)
+    - 💼 LinkedIn: [linkedin.com/in/akshatjangid](https://www.linkedin.com/in/akshat-jangid-109514233/)
+    - 🐙 GitHub: [github.com/akshatjangid](https://github.com/Akshatjangid)
     - 📱 Phone: +91-8854004221   """)
 
     st.markdown("---")
