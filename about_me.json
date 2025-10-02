@@ -3,6 +3,9 @@
   "bio": "I am a passionate and goal-driven Data Science and AI enthusiast with a strong foundation in data analysis, machine learning, and model deployment. My journey has been shaped by hands-on experience in building intelligent systems that solve real-world problems. I am deeply interested in extracting meaningful insights from data and transforming them into actionable solutions that add value to business and society.",
   "skills": [
     "Python",
+    "LangChain",
+    "RAG",
+    "GEN AI",
     "NumPy",
     "Pandas",
     "Matplotlib",
