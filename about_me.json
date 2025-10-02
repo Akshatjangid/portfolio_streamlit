@@ -27,6 +27,12 @@
   ],
   "projects": [
     {
+      "title": "Mini RAG Q&A Application",
+     "description": "A full-stack RAG app that answers questions from a document using a vector database (Qdrant), reranking (Cohere), and an LLM (Groq).",
+     "github": "https://github.com/Akshatjangid/mini-rag-project",
+     "app link": "https://huggingface.co/spaces/Akshatjangid/mini_rag"
+    },
+    {
       "title": "AgriSmart : AI Partner for every farmer",
       "description": "Developed a web application that recommends suitable crops based on soil and weather data using a Random Forest model, and detects plant leaf diseases via a CNN-based deep learning model with treatment suggestions in English and Hindi. Deployed on Render with optimized model loading and performance handling.",
       "github": "https://github.com/Akshatjangid/AgriSmart",
